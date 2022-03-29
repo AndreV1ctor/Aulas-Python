@@ -1,2 +1,2 @@
 # soulOn-Python
-## Repositorio de resumo de aulas de PY
+## Repositorio com ênfase de armazenar resumos de aulas Python - SoulOn 
