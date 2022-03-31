@@ -1,0 +1,7 @@
+t = tuple("abc")
+x = ("python", "curso")
+x1 = (2,3,4)
+x2 = (2.5,1.6,4.8)
+x3 = ("python", 1, 4.5, True)
+print(x3)
+print(type(x3))
